@@ -21,6 +21,8 @@ body{
     width: 150px;
     margin-top: -12%;
     background: fixed;
+    border: 1px solid gray;
+    padding: 5px;
 }
 #user-name{
     text-align: center;
@@ -85,7 +87,7 @@ body{
 .img{
     margin-top: -1.5%;
     position: absolute;
-    margin-right: 68%;
+    margin-right: 64%;
 }
 .img1{
     margin-top: -1.3%;
